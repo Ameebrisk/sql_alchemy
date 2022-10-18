@@ -1,0 +1,10 @@
+nullable is not null
+unique means there can only be one like a phone number
+
+
+db = SQLAlchemy()
+sql alchemy takes care of all of it. 
+database
+
+class Organizations(db.Model):
+    __tablename__="organizations'
